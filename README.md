@@ -1,4 +1,4 @@
-# TUGAS 2 ( {{Tugas 2- OSG8}} )
+# TUGAS 2 ( Tugas 2- OSG8 )
 {{tentang_project}}.
 
 ## Screenshot
