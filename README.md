@@ -1,14 +1,15 @@
 # TUGAS 2 ( Tugas 2- OSG8 )
-{{tentang_project}}.
+{{Aplikasi Profile Ir. Soekarno sederhana}}.
 
 ## Screenshot
-{{screenshot_project}}.
+- [Flutter](https://i.ibb.co/rZVS8Zh/photo6291833583916132593.jpg)
 
-## Built With
-{{Flutter}}
+### Built With
+- [Flutter](https://flutter.dev)
 
-## Created By
-{{Deden Muhamad Furqon}}
+
+### Created By
+- [Deden Muhamad Furqon](https://github.com/furqoncreative)
 
 
 ###### tags: `Flutter` `Eudeka`
