@@ -1,4 +1,4 @@
-# TUGAS 2 ( Tugas 2- OSG8 )
+# Profile Ir. Soekarno ( Tugas 2- OSG8 )
 Aplikasi Profile Ir. Soekarno sederhana.
 
 ## Screenshot
