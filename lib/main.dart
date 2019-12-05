@@ -8,8 +8,20 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text('Profile Ir. Soekarno'),),
-        body: Center(
+        appBar: AppBar(title: Text('Profile Ir. Soekarno')),
+        body: Main(),
+      ),
+    );
+  }
+}
+
+class Main extends StatelessWidget {
+    @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (BuildContext context, BoxConstraints viewportConstraints) {
+        return SingleChildScrollView(
+          child: Center(
           child: Column(
             mainAxisSize: MainAxisSize.max,
             children: <Widget>[
@@ -61,8 +73,8 @@ class MyApp extends StatelessWidget {
             ],
           ),
         ),
-      )
+        );
+      },
     );
   }
 }
-
